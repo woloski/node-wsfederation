@@ -15,7 +15,7 @@
   "keywords": ["ws-federation", "wsfederation", "security", "azure", "authentication"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/darrenzully/wsfederation.git"
+    "url": "git://github.com/darrenzully/node-wsfederation.git"
   },
   "main": "index.js",
   "engines": { "node": ">= 0.4.1" }
