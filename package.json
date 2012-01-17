@@ -1,5 +1,5 @@
 {
-  "name": "wsfederation",
+  "name": "node-wsfederation",
   "description": "An ws-federation implementation for node.js",
   "version": "0.1.0",
   "author": "Dario Renzulli <dario.renzulli@gmail.com>",
